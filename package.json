@@ -1,0 +1,20 @@
+{
+  "name": "aws-heic-converter",
+  "version": "1.0.0",
+  "description": "AWS Lambda to convert HEIC images.",
+  "main": "index.js",
+  "author": "Vitalii Elenhaupt",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veelenga/aws-heic-converter"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "heic"
+  ],
+  "dependencies": {
+    "gm": "^1.23.1"
+  }
+}
